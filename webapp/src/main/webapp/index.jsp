@@ -1,1 +1,1 @@
-WELCOME ALL for CI and CD Test
+WELCOME ALL for CI
