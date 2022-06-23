@@ -1,1 +1,1 @@
-WELCOME ALL for CI & CD and more
+WELCOME ALL for CI
