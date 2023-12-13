@@ -1,1 +1,1 @@
-WELCOME All For CI & CD via jenkins and docker
+WELCOME ANZ for CI & CD via jenkins
