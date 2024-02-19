@@ -1,1 +1,1 @@
-WELCOME sony for CI & CD via jenkins
+WELCOME to jenkins CI
