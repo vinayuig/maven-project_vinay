@@ -1,1 +1,1 @@
-WELCOME to jenkins for CI DEMO
+WELCOME to jenkins for CI and CD DEMO
